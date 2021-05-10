@@ -1,4 +1,6 @@
 from django.shortcuts import render
+from .models import Listing
+
 
 # Create your views here.
 
